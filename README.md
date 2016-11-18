@@ -1,4 +1,4 @@
-# Advanced Curriculum For The Software Craftsman
+# 软件开发者的进阶技能
 
 This document is intended as a guidance for new developers joining our teams at [FLYERALARM](https://flyeralarm.com).
 Because we think it might help others as well we open-sourced it. If you know something that's missing feel free send us a Pull-Request.
